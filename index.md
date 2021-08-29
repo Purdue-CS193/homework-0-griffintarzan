@@ -1,6 +1,6 @@
 # Seung Hyun's First CS193 Homework
 ## My favorite things about CS193
-- The class seems chiil
+- The class seems chill
 - I like the teachers!
 - This ASSIGNMENT!
 
